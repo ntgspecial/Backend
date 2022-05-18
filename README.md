@@ -35,4 +35,10 @@ Identifier = just for reference any random domain but recommended to use your ow
 
 read:current_user
 
+### Deployment
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/f2ioHN)
+
+<p><a href="https://heroku.com/deploy"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+
 
